@@ -58,12 +58,13 @@
 	},
 	"andrewsarchus":{
 		"name_t":{
-			"ru":"Эндрюсарх"
+			"ru":"Эндрюсарх",
+			"ar":"اندرو ارتشس"
 		}
 	},
 	"angler":{
 		"name_t":{
-			"ar":"أبو الشص",
+			"ar":"أبو الشص(انقلير)",
 			"da":"Klumpangler",
 			"de":"Anglerfisch",
 			"el":"Άνγκλερ",
@@ -84,7 +85,7 @@
 	},
 	"ankylosaurus":{
 		"name_t":{
-			"ar":"أنكايلوصوروس",
+			"ar":"أنكليوصوروس",
 			"el":"Αγκυλόσαυρος",
 			"es":"Ankylosaurio",
 			"fr":"Ankylosaure",
@@ -144,7 +145,7 @@
 	},
 	"arthropluera":{
 		"name_t":{
-			"ar":"أرثروبيليورا",
+			"ar":"ارثوبلوريا",
 			"de":"Arthropleura",
 			"fi":"Tuhatjalkainen",
 			"fr":"Arthropleura",
@@ -160,7 +161,7 @@
 	},
 	"astrocetus":{
 		"name_t":{
-			"ar":"استروستس",
+			"ar":"استروسيتس",
 			"fr":"Astrocetus",
 			"it":"Astroceto",
 			"ko":"아스트로시터스",
@@ -179,7 +180,7 @@
 	},
 	"attackdrone":{
 		"name_t":{
-			"ar":"طاءر بدون طيار هجومي",
+			"ar":"درون هجومي (اتاك درون)",
 			"da":"Angrebsdrone",
 			"de":"Angriffsdrone",
 			"es":"Dron de ataque",
@@ -208,7 +209,7 @@
 	},
 	"basilisk":{
 		"name_t":{
-			"ar":"بازيليسق",
+			"ar":"بازيليسك",
 			"cs":"Bazilišek",
 			"el":"Βασιλίσκος",
 			"es":"Basilisco",
@@ -255,17 +256,19 @@
 	},
 	"beyla":{
 		"name_t":{
-			"ru":"Бейла"
+			"ru":"Бейла",
+			"ar":"بيلا"
 		}
 	},
 	"beylaspawn":{
 		"name_t":{
-			"ru":"Порождение Бейлы"
+			"ru":"Порождение Бейлы",
+			"ar":"جندي بيلا(بيلا سبون)"
 		}
 	},
 	"bladewasp":{
 		"name_t":{
-			"ar":"سرب الحشرات",
+			"ar":"سرب حشرات",
 			"cs":"Roj hmyzu",
 			"de":"Insektenschwarm",
 			"es":"Enjambre de insectos",
@@ -282,7 +285,7 @@
 	},
 	"bloodstalker":{
 		"name_t":{
-			"ar":"سارق الدماء",		
+			"ar":" سارق الدماء (بلد ستولكر)",		
 			"es":"Acechador Sangriento",
 			"it":"Cacciatore del sangue",
 			"ja":"ブラッドストーカー",
@@ -310,7 +313,7 @@
 	},
 	"broodmotherlysrix":{
 		"name_t":{
-			"ar":"حضانة الأم ليزركس",
+			"ar":"حضانة الأم ليزركس(بروود موثر ليسركس)",
 			"de":"Brutmutter Lysrix",
 			"es":"Matriarca Lysrix",
 			"fi":"Emolukki Lysrix",
@@ -334,7 +337,7 @@
 			"ru":"Лампадог",
 			"zh":"灯泡犬",
 			"zh-tw":"燈泡犬",
-			"ar":"كلب ضوء"
+			"ar":"كلب ضوء(بلب دوق)"
 		}
 	},
 	"carbonemys":{
@@ -352,7 +355,8 @@
 	"carcharodontosaurus":{
 		"name_t":{
 			"ru":"Кархародонтозавр",
-			"zh":"鲨齿龙"
+			"zh":"鲨齿龙",
+			"ar":"كاركادونتوسورس"
 		}
 	},
 	"carnotaurus":{
@@ -389,7 +393,7 @@
 	},
 	"chalicotherium":{
 		"name_t":{
-			"ar":"تشاليكوثيريوم",
+			"ar":"كاليكوثيريوم",
 			"el":"Χαλικοθηρίο",
 			"es":"Calicoterio",
 			"fr":"Chalicotherium",
@@ -404,7 +408,7 @@
 	},
 	"cnidaria":{
 		"name_t":{
-			"ar":"القراصات",
+			"ar":"لاسعات(نايديريا)",
 			"cs":"Medůza",
 			"el":"Κνιδόζωο",
 			"fi":"Polttiaiseläin",
@@ -453,7 +457,7 @@
 	},
 	"corruptedmastercontroller":{
 		"name_t":{
-			"ar":"متحكم رءيسي منحرف",
+			"ar":"متحكم رئيسي فاسد",
 			"de":"Fehlerhafter Master Controller",
 			"es":"Controlador Maestro Corrupto",
 			"fr":"Maître Contrôleur Corrompu",
@@ -465,7 +469,7 @@
 	},
 	"crystalwyvern":{
 		"name_t":{
-			"ar":"تنين كرستالي",
+			"ar":"تنين كرستالي(كريستال وايڤرن)",
 			"fr":"Wyverne de Cristal",
 			"he":"וויברן קריסטל",
 			"ja":"クリスタルワイバーン",
@@ -504,7 +508,7 @@
 	},
 	"deathworm":{
 		"name_t":{
-			"ar":"دودة الموت",
+			"ar":"دودة الموت(ديث وورم)",
 			"cs":"Písečný červ",
 			"da":"Gigant Sandorm",
 			"el":"Σκουλήκι Θανάτου",
@@ -522,7 +526,7 @@
 	},
 	"defenseunit":{
 		"name_t":{
-			"ar":"وحدة الدفاع",        
+			"ar":"وحدة الدفاع(ديفينس يونيت)",        
 			"da":"Forsvarsenhed",
 			"de":"Verteidigungseinheit",
 			"es":"Unidad de defensa",
@@ -557,7 +561,7 @@
 	},
 	"deserttitan":{
 		"name_t":{
-			"ar":"عملاق الصحراء",          
+			"ar":"عملاق الصحراء(ديزيرت تايتن)",          
 			"cs":"Pouštní Titán",
 			"de":"Wüstentitan",
 			"es":"Titán del Desierto",
@@ -575,7 +579,8 @@
 	},
 	"desmodus":{
 		"name_t":{
-			"ru":"Десмод"
+			"ru":"Десмод",
+			"ar":"ديسمودس"
 		}
 	},
 	"dilophosaur":{
@@ -631,18 +636,19 @@
 	},
 	"dinopithecus":{
 		"name_t":{
-			"ar":"دينوبيثكس",
+			"ar":"دينوبيثيكس",
 			"ru":"Динопитек"
 		}
 	},
 	"dinopithecusking":{
 		"name_t":{
-			"ru":"Король Динопитеков"
+			"ru":"Король Динопитеков",
+			"ar":"ملك الدينوبيثيكس"
 		}
 	},
 	"diplocaulus":{
 		"name_t":{
-			"ar":"دبلوكاولوس",
+			"ar":"ديبلوكالوس",
 			"el":"Διπλόκαυλος",
 			"fr":"Diplocaulus",
 			"it":"Diplocaulo",
@@ -656,7 +662,7 @@
 	},
 	"diplodocus":{
 		"name_t":{
-			"ar":"ديبلودوكس",
+			"ar":"ديبلوديكس",
 			"fr":"Diplodocus",
 			"he":"דיפלודוקוס",
 			"it":"Diplodoco",
@@ -670,7 +676,7 @@
 	},
 	"direbear":{
 		"name_t":{
-			"ar":"دب",
+			"ar":"دب(داير بير)",
 			"cs":"Medvěd krátkočelý",
 			"da":"Direbjørn",
 			"el":"Δεινή Αρκούδα",
@@ -694,7 +700,7 @@
 	"direwolf":{
 		"name_t":{
 			"da":"Direulv",
-			"ar":"ذءب",
+			"ar":"ذئب(داير وولف)",
 			"el":"Ανταρόλυκος",
 			"es":"Lobo Gigante",
 			"fi":"Hirviösusi",
@@ -740,7 +746,7 @@
 	},
 	"dragon":{
 		"name_t":{
-			"ar":"تنين",
+			"ar":"تنين(تنبن)",
 			"cs":"Drak",
 			"da":"Drage",
 			"de":"Drachen",
@@ -765,7 +771,7 @@
 	},
 	"dungbeetle":{
 		"name_t":{
-			"ar":"خنفساء الروث",
+			"ar":"خنفساء الروث(دنق بيتل)",
 			"da":"Gødningsbille",
 			"el":"Σκαθάρι",
 			"es":"Escarabajo Pelotero",
@@ -801,6 +807,7 @@
 	"electrophorus":{
 		"name_t":{
 			"el":"Ελεκτροφόρος",
+			"ar":"يليكتروفس"
 			"es":"Anguila eléctrica",
 			"fr":"Anguille electrique",
 			"it":"Elettroforo",
@@ -817,6 +824,7 @@
 	"enforcer":{
 		"name_t":{
 			"es":"Ejecutor",
+			"ar":"اينفورسر",
 			"fr":"Exécuteur",
 			"it":"Esecutore",
 			"ja":"エンフォーサー",
@@ -830,7 +838,7 @@
 	},
 	"equus":{
 		"name_t":{
-			"ar":"ايكوس",
+			"ar":"ايكويس",
 			"el":"Άλογο",
 			"fi":"Villihevonen",
 			"hr":"Эквус",
@@ -844,6 +852,7 @@
 	"eurypterid":{
 		"name_t":{
 			"el":"Ευρυπτερίδα",
+			"ar":"يوريبتيريد",
 			"es":"Eurypterida",
 			"fi":"Meriskorpioni",
 			"fr":"Euryptéride",
@@ -858,12 +867,14 @@
 	},
 	"fasolasuchus":{
 		"name_t":{
-			"ru":"Фасолазух"
+			"ru":"Фасолазух",
+			"ar":"فاسولاسكوس"
 		}
 	},
 	"featherlight":{
 		"name_t":{
 			"da":"Neonfjer",
+			"ar":"فيزر لايت",
 			"es":"Pluminoso",
 			"fr":"Plumineux",
 			"it":"Piumalucente",
@@ -877,17 +888,20 @@
 	},
 	"fenrir":{
 		"name_t":{
-			"ru":"Фенрир"
+			"ru":"Фенрир",
+			"ar":"فينرير"
 		}
 	},
 	"fenrisulfr":{
 		"name_t":{
-			"ru":"Фенрис"
+			"ru":"Фенрис",
+			"ar":"فينريسولفر"
 		}
 	},
 	"ferox":{
 		"name_t":{
 			"fr":"Ferox",
+			"ar":"فيروكس",
 			"ja":"フェロックス",
 			"ko":"페록스",
 			"ru":"Ферокс",
@@ -896,12 +910,14 @@
 	},
 	"fjordhawk":{
 		"name_t":{
-			"ru":"Ястреб фьордов"
+			"ru":"Ястреб фьордов",
+			"ar":"صقر فيورد (فيورد هوك)"
 		}
 	},
 	"foresttitan":{
 		"name_t":{
 			"cs":"Lesní Titán",
+	                 "ar":"عملاق الغابه(فورست تايتن)",
 			"de":"Waldtitan",
 			"es":"Titán del Bosque",
 			"fr":"Titan des Forêts",
@@ -918,6 +934,7 @@
 	"gacha":{
 		"name_t":{
 			"fr":"Gacha",
+			"ar":"قاتشا",
 			"ja":"ガチャ",
 			"ko":"가챠",
 			"pt-br":"Gacha",
@@ -944,6 +961,7 @@
 	"gasbags":{
 		"name_t":{
 			"fr":"Sacagaz",
+			"ar":"غاس باقز",
 			"it":"Gasinsetto",
 			"ja":"ガスバッグ",
 			"ja-OLD":"ガスバグ",
@@ -956,7 +974,7 @@
 	},
 	"giantbee":{
 		"name_t":{
-			"ar":"نحلة عملاقة",
+			"ar":"نحلة عملاقة(جاينت بيي)",
 			"cs":"Obří včela",
 			"da":"Kæmpe Bi",
 			"de":"Riesige Biene",
@@ -1015,6 +1033,7 @@
 	"glowbug":{
 		"name_t":{
 			"cs":"Světluška",
+			"ar":"حشره ضوئيه (غلو بق)",
 			"da":"Ildflue",
 			"de":"Leuchtkäfer",
 			"es":"Electrociérnaga",
@@ -1035,6 +1054,7 @@
 		"name_t":{
 			"da":"Glødehale",
 			"es":"Lumigeco",
+			"ar":"غلو تيل",
 			"fi":"Hehkuhäntä",
 			"fr":"Gecko luisant",
 			"it":"Lucciocoda",
@@ -1051,6 +1071,7 @@
 		"name_t":{
 			"da":"Grif",
 			"el":"Γρύπας",
+			"ar":"قريفين",
 			"es":"Grifo",
 			"fi":"Aarnikotka",
 			"fr":"Griffon",
@@ -1068,13 +1089,15 @@
 	},
 	"hatiskoll":{
 		"name_t":{
-			"ru":"Хати и Сколль"
+			"ru":"Хати и Сколль",
+			"ar":"هاتيسكول"
 		}
 	},
 	"hesperornis":{
 		"name_t":{
 			"el":"Εσπορόνις",
 			"fr":"Hesperornis",
+			"ar":"هيسبيرورنس",
 			"he":"הספראורניס",
 			"hr":"Гесперорнисы",
 			"it":"Esperornite",
@@ -1091,6 +1114,7 @@
 		"name_t":{
 			"el":"Υαινόδους",
 			"fi":"Hyeena",
+			"ar":"هاينادون",
 			"fr":"Hyène",
 			"it":"Ienodonte",
 			"ja":"ヒエノドン",
@@ -1105,6 +1129,7 @@
 		"name_t":{
 			"cs":"Ledový Titán",
 			"de":"Eistitan",
+			"ar":"عملاق الثلج (ايس تايتن)",
 			"es":"Titán de Hielo",
 			"fr":"Titan de Glace",
 			"it":"Titano del Ghiaccio",
