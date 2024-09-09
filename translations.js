@@ -11857,7 +11857,9 @@ var translations = {
 		ar:{
 			name:"العَرَبِيَّة",
 			credit:[{
-				name:"Mohammad M"
+				name:"Mohammad M",
+				name:"Ibraheem-raad",
+				link:"https://github.com/Ibraheemraad1"
 			}]
 		},
 		cs:{
