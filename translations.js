@@ -502,7 +502,7 @@ var translations = {
 		checkForNewData: "تحقق عن بيانات جديدة",
 		comparison: "مقارنة",
 		concious: "واعي",
-		consumptionSpeed: "سرعة استهلاك الطعام",
+		consumptionSpeed: "سرعة الاستهلاك ",
 		cookingPot: "وعاء الطبخ",
 		craftedIn: "تُصنع في",
 		currentFoodValue: "مقدار الطعام الحالي",
@@ -851,12 +851,12 @@ var translations = {
 		stories: "قصص",
 		damage: "الضرر",
 		notifBorn: "سيولد {0} الخاص بك في {1} دقائق.",
-		notifJuv: "سيصبح {0} الصغير الخاص بك صغيرًا بعد {1} دقائق.",
+		notifJuv: "سيصبح {0} الصغير الخاص بك شاباً بعد {1} دقائق.",
 		notifAdult: "سيصبح {0} الخاص بك بالغًا بعد {1} دقائق.",
 		active: "نشط",
 		multipliers: "المضاعفات",
 		viewAll: "عرض الكل",
-		removeAds: "إزالة إعلانات دودودكس",
+		removeAds: "إزالة الإعلانات ",
 		spawnMaps: "خرائط الظهور",
 		evolutionEvent: "حدث التطور",
 		noOffline: "عذرًا، هذه الميزة غير متاحة دون اتصال.",
@@ -12209,7 +12209,8 @@ var translations = {
 		ar:{
 			name:"العَرَبِيَّة",
 			credit:[{
-				name:"Mohammad M"
+				name:"Mohammad M",
+				name:"IBH"
 			}]
 		},
 		cs:{
