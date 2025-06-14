@@ -12251,7 +12251,11 @@ var translations = {
 		ar:{
 			name:"العَرَبِيَّة",
 			credit:[{
-				name:"Mohammad M"
+				name:"Mohammad M",
+				
+			},{
+				name:"IBH-RAD",
+				link:"https://github.com/IBH-RAD"
 			}]
 		},
 		cs:{
